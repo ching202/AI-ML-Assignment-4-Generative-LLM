@@ -35,9 +35,11 @@ The only parameter varied was **temperature**.
 
 | Temperature | Output Snippet | Observation |
 |------------|----------------|-------------|
-| **0.2** | *(Paste output snippet)* | Predictable, coherent, low creativity |
-| **0.7** | *(Paste output snippet)* | Balanced, descriptive, natural |
-| **1.0** | *(Paste output snippet)* | Creative, surprising, sometimes incoherent |
+| **0.2** | You are an aspiring software engineer learning about large language models. Write a short, imaginative story about how training an AI model helped you start a new chapter in your life.| Predictable, coherent, low creativity |
+
+| **0.7** | You are an aspiring software engineer learning about large language models. Write a short, imaginative story about how training an AI model helped you start a new chapter in your life. | Balanced, descriptive, natural |
+
+| **1.0** | You are an aspiring software engineer learning about large language models. Write a short, imaginative story about how training an AI model helped you start a new chapter in your life. You will also learn about the role of social capital in AI technology. | Creative, surprising, sometimes incoherent |
 
 ## 📝 Analysis
 
